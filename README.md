@@ -68,6 +68,6 @@ Bootcamp sonrasında da bu repo üzerinde geliştirmelere devam ederek, daha pro
 
 ## 🔗 Linkler
 
-https://www.kaggle.com/code/perastra/cnn-transfer-learning-projesi-alpaca
+https://www.kaggle.com/code/perastra/cnn-alpaca
 ---
 

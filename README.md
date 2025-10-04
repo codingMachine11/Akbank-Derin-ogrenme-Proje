@@ -1,4 +1,4 @@
-# Akbank-Derin-ogrenme-Proje
+# Temelden-Derin-ogrenme
 # 🦙 Alpaca Sınıflandırma Projesi (CNN + Transfer Learning)
 
 ## 📌 Giriş
